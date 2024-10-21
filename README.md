@@ -5,6 +5,11 @@
 - I am currently sharpening my Terraform skills and preparing for the AWS Cloud Practitioner Certification.
 - My background in teaching, combined with my technical skills, has equipped me with a unique blend of emotional intelligence, problem-solving abilities, and a strong commitment to fostering learning environments—qualities that I am eager to bring to a DevOps role.
 
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=jourzy&count_private=true&theme=tokyonight&showicons=true)]()
+
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jourzy&langs_count=5&theme=tokyonight)]()
+
+
 <!--
 **jourzy/jourzy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
