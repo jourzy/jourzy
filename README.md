@@ -1,9 +1,8 @@
 ## Hi there 👋
 
-- My name is Emma and I am a DevOps Engineer specialising in Python, AWS, Docker, Kubernetes and MYSQL. 
+- My name is Emma and I am a Software Engineer specialising in Python, MYSQL, AWS, Docker, Kubernetes, Terraform. 
 - I am also trained in Full-Stack Development (JavaScript, React, Flask, Express.js and Redux).
-- I am currently sharpening my Terraform skills and preparing for the AWS Cloud Practitioner Certification.
-- My background in teaching, combined with my technical skills, has equipped me with a unique blend of emotional intelligence, problem-solving abilities, and a strong commitment to fostering learning environments—qualities that I am eager to bring to a DevOps role.
+- My background in teaching, combined with my technical skills, has equipped me with a unique blend of emotional intelligence, problem-solving abilities, and a strong commitment to fostering learning environments—qualities that I am eager to bring to a Software Engineering role.
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=jourzy&count_private=true&theme=tokyonight&showicons=true)]()
 
